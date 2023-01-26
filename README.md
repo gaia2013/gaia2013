@@ -5,7 +5,7 @@
 </p>
 
 - 👋 Hi, I’m Hitoshi Yamaguchi
-- 👀 I’m interested in ... system engineering(Golang Python Ruby AWS GCP), BJJ, U.S.stock
+- 👀 I’m interested in ... system engineering(Golang Python Ruby AWS GCP), BJJ, U.S.stock, Splatoon3
 - 🌱 I’m currently learning ... React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
