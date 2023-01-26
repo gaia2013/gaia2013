@@ -4,11 +4,15 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=gaia2013&theme=onedark&show_icons=ture" />
 </p>
 
-- 👋 Hi, I’m @gaia2013
-- 👀 I’m interested in ... system engineering(Golang Python Ruby AWS GCP), BJJ, U.S. stock investment
-- 🌱 I’m currently learning ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaia2013)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+- 👋 Hi, I’m Hitoshi Yamaguchi
+- 👀 I’m interested in ... system engineering(Golang Python Ruby AWS GCP), BJJ, U.S.stock
+- 🌱 I’m currently learning ... React.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
+- Resume ... https://docs.google.com/spreadsheets/d/1WfGcuWQSwezLkiv0Gb1-onehJR6NenR2PCcVDS1AUs8/edit#gid=1218823470
 
 <!---
 gaia2013/gaia2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
