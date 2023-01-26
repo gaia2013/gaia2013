@@ -1,6 +1,5 @@
 
 <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=gaia2013">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gaia2013=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @gaia2013
