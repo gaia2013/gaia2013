@@ -1,3 +1,7 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={gaia2013}
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @gaia2013
 - 👀 I’m interested in ... system engineering(Golang Python Ruby AWS GCP), BJJ, U.S. stock investment
 - 🌱 I’m currently learning ...
