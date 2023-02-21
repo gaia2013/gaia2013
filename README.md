@@ -15,3 +15,29 @@
 gaia2013/gaia2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+Log
+2023/02/21
+
+[useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
+
+[reactの基本がnode.jsだと聞いたのですがどういうことですか？書き方が同じということですか？まだ全くの初心者なのでやさしく教えていただけると助かります。
+](https://qr.ae/prWq9y)
+
+[Event.preventDefault()](https://developer.mozilla.org/ja/docs/Web/API/Event/preventDefault)
+
+~2023/02/20
+
+[MUI Core](https://mui.com/core/)
+[仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide/)
+
+Udemy Coupon page
+https://course-lp.vercel.app/ ~2023/02
+http://shincode.info/2021/12/31/udemy-discount-coupon/
+
+[Reactの基本的なところ](https://zenn.dev/miz_dev/articles/4e6baa5b747c5d)
