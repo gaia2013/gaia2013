@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Hitoshi Yamaguchi
 - 👀 I’m interested in ... system engineering(Ruby AWS GCP), BJJ, U.S.stock, Splatoon3
-- 🌱 I’m currently learning ... React.js, SWE Domain Knowledge
+- 🌱 I’m currently learning ... React.js Library, Next.js Framework, SWE Domain Knowledge
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - Resume ... https://docs.google.com/spreadsheets/d/1WfGcuWQSwezLkiv0Gb1-onehJR6NenR2PCcVDS1AUs8/edit#gid=1218823470
