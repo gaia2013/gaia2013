@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Log
-2023/02/21
+# Log
+## 2023/02/21
 
 [useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
 
@@ -31,7 +31,10 @@ Log
 
 [Event.preventDefault()](https://developer.mozilla.org/ja/docs/Web/API/Event/preventDefault)
 
-~2023/02/20
+APIのモックが作れるライブラリ
+[json-server](https://github.com/typicode/json-server)
+
+## ~2023/02/20
 
 [MUI Core](https://mui.com/core/)
 [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide/)
