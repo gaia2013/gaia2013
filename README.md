@@ -22,6 +22,16 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+## 2023/02/23
+[load balancer と　API　gateway　の違い](https://twitter.com/alexxubyte/status/1628073067468685313?s=12&t=3Csa7Sbd9fKA22wqJf4bKQ)
+
+## 2023/02/22
+ゴルフ場検索サービス
+FEコード　を　AWS Amplyfy　へ　デプロイ
+GoogleMapAPIの有効化
+AWS Lambda での関数作成（初期値）
+
+
 ## 2023/02/21
 
 [useEffect完全ガイド](https://overreacted.io/ja/a-complete-guide-to-useeffect/)
