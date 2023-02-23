@@ -24,6 +24,9 @@ You can click the Preview link to take a look at your changes.
 # Log
 ## 2023/02/23
 [load balancer と　API　gateway　の違い](https://twitter.com/alexxubyte/status/1628073067468685313?s=12&t=3Csa7Sbd9fKA22wqJf4bKQ)
+![FpgTclzaIAA2GYb](https://user-images.githubusercontent.com/3797539/220834736-bd090658-300c-41f2-82ea-d6d615b6d06c.jpeg)
+
+[JWTハンドブック](https://assets.ctfassets.net/2ntc334xpx65/5HColfm15cUhMmDQnupNzd/30d5913d94e79462043f6d8e3f557351/jwt-handbook-jp.pdf)
 
 ## 2023/02/22
 ゴルフ場検索サービス
