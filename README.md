@@ -22,6 +22,18 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+
+## 2023/02/24
+
+
+
+複数ファイルをzipファイルに圧縮するコマンド例
+$ zip -r function.zip lambda_function.rb vendor
+すでに同名のzipファイルが存在する場合、更新されないので、一旦削除して、zipコマンドを実行する。
+
+include Aws::Record
+セミコロン２つ　と　AWSは頭文字だけ大文字
+
 ## 2023/02/23
 [load balancer と　API　gateway　の違い](https://twitter.com/alexxubyte/status/1628073067468685313?s=12&t=3Csa7Sbd9fKA22wqJf4bKQ)
 ![FpgTclzaIAA2GYb](https://user-images.githubusercontent.com/3797539/220834736-bd090658-300c-41f2-82ea-d6d615b6d06c.jpeg)
