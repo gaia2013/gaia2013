@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+## 2023/03/01
+[AWS Client VPM を使ってみた](https://blog.grasys.io/post/ysato/aws-client-vpn/)
 
 ## 2023/02/28
 [What are the API architectural styles?](https://twitter.com/alexxubyte/status/1630247687114330120?s=12&t=tkn1SpMofvWD0GXS2U2jaQ)
