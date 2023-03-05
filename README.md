@@ -23,6 +23,26 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+## 2023/03/05
+技術質問
+BackEnd
+- 参照渡しと値渡しの違いは？ (Programming)
+- ブラウザ開いてから表示されるまで何が起こってる (Network)
+- NoSQLとSQLの一般的な違いは？ (DB)
+- プロセスとスレッドの違いは？ (OS)
+- VMとコンテナの違いは？ (Virtualization)
+
+FrontEnd
+
+- 参照渡しと値渡しの違いは？ (Programming)
+- JavaScriptのconst、var、letの違いは何？(JS)
+- ページを高速に表示するために出来る事をいくつか教えて (Browser/HTML/JS/CSS)
+- CSSの詳細度（Specificity）の考えでは、ID/CLASS/TYPEセレクタのどの優先度で適用されるか？ (CSS)
+- Reactの仮想DOMとは何ですか？ (React)
+- useMemoはどのような時に使用しますか？(React)
+
+
+
 ## 2023/03/01
 [AWS Client VPM を使ってみた](https://blog.grasys.io/post/ysato/aws-client-vpn/)
 
