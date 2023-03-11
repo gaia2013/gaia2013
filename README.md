@@ -23,6 +23,13 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+## 2023/03/12
+Visual Representation of SQL Joins
+
+http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
+
+![SQL JOINS](https://user-images.githubusercontent.com/3797539/224496103-55d32ce8-ef2e-498a-bbf9-92786085f053.png)
+
 ## 2023/03/05
 技術質問
 BackEnd
