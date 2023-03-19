@@ -23,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+## 2023/03/20
+
+20 System design concepts explained with images.
+
+https://twitter.com/neetcode1/status/1637110734038654978?s=46&t=tkn1SpMofvWD0GXS2U2jaQ
+
 ## 2023/03/19
 Reverse Proxy
 
