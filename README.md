@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 # Log
 ## 2023/03/19
-Reverse Prixy
+Reverse Proxy
 
 ![FrZmmFbaMAAQylH](https://user-images.githubusercontent.com/3797539/226154793-cd8516a0-27c8-490a-bf93-e33f05624360.jpeg)
 
