@@ -23,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+## 2023/03/21
+
+Inside look at modern web browser (part 1)
+
+https://developer.chrome.com/blog/inside-browser-part1/
+
 ## 2023/03/20
 
 20 System design concepts explained with images.
