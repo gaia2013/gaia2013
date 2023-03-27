@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+##
+[モノリシックRailsアプリケーションをモジュラモノリスへ移行しているnoteの事例](https://kaigionrails.org/2022/talks/shshimamo/)
 ## 2023/03/21
 
 Inside look at modern web browser (part 1)
