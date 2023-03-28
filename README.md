@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+
+##
+[mysqlpumpを使ってバックアップを取ってみる](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153)
 ##
 [モノリシックRailsアプリケーションをモジュラモノリスへ移行しているnoteの事例](https://kaigionrails.org/2022/talks/shshimamo/)
 ## 2023/03/21
