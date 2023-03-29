@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 
 # Log
+##
+![IMG_2537](https://user-images.githubusercontent.com/3797539/228577090-64ec8bc7-4950-4bc9-9502-9055ec853f40.JPG)
 
 ##
 [mysqlpumpを使ってバックアップを取ってみる](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153)
